@@ -1,0 +1,9 @@
+### Solidity built contracts ###
+build/
+
+### Node modules files ###
+node_modules/
+package-lock.json
+
+### Private key files ###
+.secret
